@@ -4,7 +4,7 @@ Bem-vindo ao repositório de Desenvolvimento Fullstack! Este repositório conté
 
 ## Estrutura do Repositório
 
-- **Nivel 5**: Repositório destinado a MongoDB
+- **Nivel 5**: Repositório destinado a MongoDB.
 
 **Nota**: Este repositório é destinado apenas para fins educacionais.
 
