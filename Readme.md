@@ -2,36 +2,29 @@
 
 Bem-vindo ao repositório de Desenvolvimento Fullstack! Este repositório contém todos os projetos desenvolvidos durante o curso de Desenvolvimento Fullstack na faculdade.
 
-## Projetos
-
-Aqui você encontrará uma lista de todos os projetos realizados:
-
-```markdown
-{% for projeto in projetos %}
-1. **{{ projeto.nome }}**: {{ projeto.descricao }}.
-{% endfor %}
-```
-
 ## Estrutura do Repositório
 
-```markdown
-{% for projeto in projetos %}
-- **/{{ projeto.pasta }}**: Código fonte e documentação do {{ projeto.nome }}.
-{% endfor %}
-```
+- **/projeto1**: Código fonte e documentação do Projeto 1.
+- **/projeto2**: Código fonte e documentação do Projeto 2.
+- **/projeto3**: Código fonte e documentação do Projeto 3.
 
-## Como Contribuir
-
-1. Faça um fork do repositório.
-2. Crie uma nova branch (`git checkout -b feature/nova-feature`).
-3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
-4. Faça push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato pelo email: [seuemail@dominio.com](mailto:seuemail@dominio.com).
+Para dúvidas ou sugestões, entre em contato: 
+Email:[josue.programador@hotmail.com](mailto:josue.programador@hotmail.com).
+
+---
+Para dúvidas ou sugestões, envie uma mensagem no WhatsApp: [Clique aqui](https://wa.me/5587999196460).
+
+**Nota**: Este repositório é destinado apenas para fins educacionais.
+
+## Sobre Mim
+
+Meu nome é [Seu Nome], sou estudante de Desenvolvimento Fullstack na faculdade. Tenho interesse em desenvolvimento web e sempre busco aprender novas tecnologias e melhorar minhas habilidades.
 
 ---
 
-**Nota**: Este repositório é destinado apenas para fins educacionais.
+**LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+
+**GitHub**: [Seu GitHub](https://github.com/seu-usuario)
