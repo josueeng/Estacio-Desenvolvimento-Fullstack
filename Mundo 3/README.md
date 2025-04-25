@@ -6,39 +6,38 @@ O Mundo03 reúne soluções para diversos problemas de programação relacionado
 
 ## 📖 Conteúdo estudado:
 
-[Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroPoo) - RPG0014 - Iniciando o caminho pelo Java;
+[Nível 01](#) - RPG0014 - Iniciando o caminho pelo Java;
 
-[Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/Loja) - RPG0015 - Vamos Manter as Informações?; 
+[Nível 02](#) - RPG0015 - Vamos Manter as Informações?; 
 
-[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroBD) - RPG0016 - Back-end Sem Banco Não Tem;
+[Nível 03](#) - RPG0016 - Back-end Sem Banco Não Tem;
 
-[Nível 04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroEE) - RPG0017 - Vamos Integrar Sistemas;
+[Nível 04](#) - RPG0017 - Vamos Integrar Sistemas;
 
-[Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroServidor) - RPG0018 - Por Que Não Paralelizar?.
+[Nível 05](#) - RPG0018 - Por Que Não Paralelizar?.
 
 ## 🚀 Estrutura do Mundo02
 
-[Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroPoo) - Java;
+[Nível 01](#) - Java;
 
-[Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/Loja) - SQL;
+[Nível 02](#) - SQL;
 
-[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroBD) - Java e SQL criado anteriormente;
+[Nível 03](#) - Java e SQL criado anteriormente;
 
-[Nível 04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroEE) - Java;
+[Nível 04](#) - Java;
 
-[Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroServidor) - União dos projetos criados em Java e SQL criado anteriormente; 
+[Nível 05](#) - União dos projetos criados em Java e SQL criado anteriormente; 
  
 ## 🛠 Tecnologias Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql&perline=10)](https://github.com/GilvanPOliveira)
-
+[![My Skills](https://skillicons.dev/icons?i=java,mysql&perline=10)](#)
 
 ## 📬 Contato
 
 Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+- E-mail: [Contato](Josue.programador@hotmail.com )
+- Portifólio: [Portfólio](devjosue.tech)
 
   <br>
   
-[<- Retornar ao Repositório Full Stack](https://github.com/GilvanPOliveira/FullStack)
+[<- Retornar ao Repositório Full Stack](#)
